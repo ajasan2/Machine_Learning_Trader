@@ -1,0 +1,40 @@
+====================== 2008-01-01 00:00:00 to 2009-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.0379 | Manual: 0.7922
+Average Daily Returns __________________ Benchmark: 0.0001 | Manual: 0.0012
+Standard Deviation of Daily Returns ____ Benchmark: 0.0175 | Manual: 0.0118
+
+====================== 2010-01-01 00:00:00 to 2011-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.1337 | Manual: -0.0350
+Average Daily Returns __________________ Benchmark: -0.0002 | Manual: -0.0000
+Standard Deviation of Daily Returns ____ Benchmark: 0.0088 | Manual: 0.0083
+
+====================== 2008-01-01 00:00:00 to 2009-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.0379 | Manual: 0.7922
+Average Daily Returns __________________ Benchmark: 0.0001 | Manual: 0.0012
+Standard Deviation of Daily Returns ____ Benchmark: 0.0175 | Manual: 0.0118
+
+====================== 2010-01-01 00:00:00 to 2011-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.1337 | Manual: -0.0350
+Average Daily Returns __________________ Benchmark: -0.0002 | Manual: -0.0000
+Standard Deviation of Daily Returns ____ Benchmark: 0.0088 | Manual: 0.0083
+
+====================== 2008-01-01 00:00:00 to 2009-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.0379 | Manual: 0.7922
+Average Daily Returns __________________ Benchmark: 0.0001 | Manual: 0.0012
+Standard Deviation of Daily Returns ____ Benchmark: 0.0175 | Manual: 0.0118
+
+====================== 2010-01-01 00:00:00 to 2011-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.1337 | Manual: -0.0350
+Average Daily Returns __________________ Benchmark: -0.0002 | Manual: -0.0000
+Standard Deviation of Daily Returns ____ Benchmark: 0.0088 | Manual: 0.0083
+
+====================== 2008-01-01 00:00:00 to 2009-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.0379 | Manual: 0.7922
+Average Daily Returns __________________ Benchmark: 0.0001 | Manual: 0.0012
+Standard Deviation of Daily Returns ____ Benchmark: 0.0175 | Manual: 0.0118
+
+====================== 2010-01-01 00:00:00 to 2011-12-31 00:00:00 ======================
+Cumulative Returns _____________________ Benchmark: -0.1337 | Manual: -0.0350
+Average Daily Returns __________________ Benchmark: -0.0002 | Manual: -0.0000
+Standard Deviation of Daily Returns ____ Benchmark: 0.0088 | Manual: 0.0083
+
